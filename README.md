@@ -8,3 +8,4 @@ Afterrecognition, it will mark the attendance of the recognizedstudent and updat
 # Steps
 ```
 1. Extract TrainingimageLabel.rar file.
+```
