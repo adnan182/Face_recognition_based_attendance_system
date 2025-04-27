@@ -11,7 +11,7 @@ import pandas as pd
 import datetime
 import time
 
-############################################# FUNCTIONS ################################################
+######################################### FUNCTIONS ###########################################
 
 def assure_path_exists(path):
     dir = os.path.dirname(path)
@@ -104,7 +104,7 @@ def change_pass():
     save1.place(x=10, y=120)
     master.mainloop()
 
-#####################################################################################
+##############################################################################
 
 def psw():
     assure_path_exists("TrainingImageLabel/")
